@@ -1,0 +1,17 @@
+C:\Users\Pavan Vidam\source\repos\AssignmentQA2Pavan\nunit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pavan Vidam\source\repos\AssignmentQA2Pavan\nunit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pavan Vidam\source\repos\AssignmentQA2Pavan\nunit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pavan Vidam\source\repos\AssignmentQA2Pavan\nunit\bin\Debug\nunit.dll
+C:\Users\Pavan Vidam\source\repos\AssignmentQA2Pavan\nunit\bin\Debug\nunit.pdb
+C:\Users\Pavan Vidam\source\repos\AssignmentQA2Pavan\nunit\bin\Debug\AssignmentQA2Pavan.exe
+C:\Users\Pavan Vidam\source\repos\AssignmentQA2Pavan\nunit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Pavan Vidam\source\repos\AssignmentQA2Pavan\nunit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Pavan Vidam\source\repos\AssignmentQA2Pavan\nunit\bin\Debug\AssignmentQA2Pavan.pdb
+C:\Users\Pavan Vidam\source\repos\AssignmentQA2Pavan\nunit\bin\Debug\AssignmentQA2Pavan.exe.config
+C:\Users\Pavan Vidam\source\repos\AssignmentQA2Pavan\nunit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Pavan Vidam\source\repos\AssignmentQA2Pavan\nunit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Pavan Vidam\source\repos\AssignmentQA2Pavan\nunit\obj\Debug\nunit.csproj.AssemblyReference.cache
+C:\Users\Pavan Vidam\source\repos\AssignmentQA2Pavan\nunit\obj\Debug\nunit.csproj.CoreCompileInputs.cache
+C:\Users\Pavan Vidam\source\repos\AssignmentQA2Pavan\nunit\obj\Debug\nunit.csproj.CopyComplete
+C:\Users\Pavan Vidam\source\repos\AssignmentQA2Pavan\nunit\obj\Debug\nunit.dll
+C:\Users\Pavan Vidam\source\repos\AssignmentQA2Pavan\nunit\obj\Debug\nunit.pdb
